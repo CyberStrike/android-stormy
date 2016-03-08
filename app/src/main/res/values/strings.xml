@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Stormy</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="forecastIoKey">520ef0d7f48bfaf22a7bd9e57bb00aaa</string>
+
+  <string-array name="icon_type">
+        <item>
+          text_string</item>
+  </string-array>
+</resources>
